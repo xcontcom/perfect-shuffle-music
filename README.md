@@ -1,5 +1,7 @@
 # 🎼 Perfect Shuffle Music Composer
 
+![piano](public/piano.png)
+
 An experimental **evolutionary music generator** that uses symbolic recombination instead of traditional randomness.  
 Each generation produces 48 unique MIDI sequences based on **perfect shuffle crossover**, and you — the listener — guide the evolution.
 
