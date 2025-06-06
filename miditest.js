@@ -13,7 +13,7 @@ app.use(express.static('public')); // Serve static files (MIDI files, HTML)
 const notescount = 256;
 const minorarray = [48, 50, 52, 53, 55, 57, 59, 60, 62, 64, 65, 67, 69, 71, 72, 74];
 
-const survivalsCount = 24;
+const survivalsCount = 16;
 const shift = 8;
 
 // MIDI Generation
