@@ -99,7 +99,7 @@ Changing `shift` tweaks the musical phrasing across generations.
 ## 📁 File Structure
 
 ```
-legacy/					# PHP
+legacy/                 # PHP
 miditest.js             # Main Node.js app
 public/
   └── midi/             # Output MIDI files
