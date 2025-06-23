@@ -34,7 +34,7 @@ It's like gene-splicing musical DNA — but with math and groove.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourname/perfect-shuffle-music-composer.git
+git clone https://github.com/xcontcom/perfect-shuffle-music-composer.git
 cd perfect-shuffle-music-composer
 npm install
 node miditest.js
