@@ -100,13 +100,15 @@ Changing `shift` tweaks the musical phrasing across generations.
 
 ## 🎵 Examples
 
-[Listen to Sample 1](example/1.wav)
+[Listen to Sample 1](public/example/1.wav)
 
-[Listen to Sample 2](example/2.wav)
+[Listen to Sample 2](public/example/2.wav)
 
-[Listen to Sample 2](example/3.wav)
+[Listen to Sample 2](public/example/3.wav)
 
-[Listen to Sample 2](example/4.wav)
+[Listen to Sample 2](public/example/4.wav)
+
+https://github.com/user-attachments/assets/f12126f6-c59b-46cb-9bbf-112b0405e5e9
 
 ---
 
