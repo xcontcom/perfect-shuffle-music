@@ -118,6 +118,7 @@ miditest.js             # Main Node.js app
 public/
   └── midi/             # Output MIDI files
 population.json         # Saved population data (auto-generated)
+different mixing method # Different mixing method
 ```
 
 ---
